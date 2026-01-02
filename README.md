@@ -10,13 +10,13 @@
 
 \## 👤 About Me
 
-\*\*Name\*\*: SRIKANTH BHAGYANAGARAJ  
+\*\*Name\*\*: SRIKANTH BHAGYANAGARAJ
 
-\*\*Portfolio\*\*: https://indradanush.github.io/  
+\*\*Portfolio\*\*: https://indradanush.github.io/
 
-\*\*LeetCode\*\*: https://leetcode.com/u/SRIKANTHBHAGYANAGARAJ/  
+\*\*LeetCode\*\*: https://leetcode.com/u/SRIKANTHBHAGYANAGARAJ/
 
-\*\*GitHub\*\*: https://github.com/SRIKANTHBHAGYANAGARAJ  
+\*\*GitHub\*\*: https://github.com/SRIKANTHBHAGYANAGARAJ
 
 
 

@@ -6,11 +6,11 @@
 
 # 
 
-# \*\*Name\*\*: SRIKANTH BHAGYANAGARAJ  
+# \*\*Name\*\*: SRIKANTH BHAGYANAGARAJ
 
-# \*\*Portfolio\*\*: https://indradanush.github.io/  
+# \*\*Portfolio\*\*: https://indradanush.github.io/
 
-# \*\*LeetCode\*\*: https://leetcode.com/u/SRIKANTHBHAGYANAGARAJ/  
+# \*\*LeetCode\*\*: https://leetcode.com/u/SRIKANTHBHAGYANAGARAJ/
 
 # \*\*GitHub\*\*: https://github.com/SRIKANTHBHAGYANAGARAJ
 
@@ -26,7 +26,9 @@
 
 # \- \[002. Add Two Numbers](Python/002-add-two-numbers.py) - Linked List addition
 
-# \- \[003. Longest Substring Without Repeating Characters](Python/003-longest-substring.py) - Sliding Window
+\- \[003. Longest Substring Without Repeating Characters](Python/003-longest-substring.py) - Sliding Window
+- \[004. Median of Two Sorted Arrays](Python/004-median-sorted-arrays.py) - Binary Search (O(log(min(m,n))))
+===
 
 # 
 
@@ -36,5 +38,7 @@
 
 # \- \[002. Add Two Numbers](Java/AddTwoNumbers.java) - Linked List addition
 
-# \- \[003. Longest Substring Without Repeating Characters](Java/003-longest-substring.java) - Sliding Window
+\- \[003. Longest Substring Without Repeating Characters](Java/003-longest-substring.java) - Sliding Window
+- \[004. Median of Two Sorted Arrays](Java/004-median-sorted-arrays.java) - Binary Search (O(log(min(m,n))))
+===
 
